@@ -1,0 +1,96 @@
+ .u-section-1 {
+  background-image: url("images/The_Athletic_Collective_LLC_Cover.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  background-image: linear-gradient(to right, #0096f5, #0047ff);
+  text-transform: uppercase;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  font-weight: 700;
+  margin: 286px -15px 43px auto;
+  padding: 21px 98px 23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-1 {
+    margin-top: 273px;
+    margin-right: -30px;
+    margin-bottom: 56px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 0% 50%;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 263px;
+    margin-right: 0;
+    margin-bottom: 60px;
+    padding: 22px 19px 22px 18px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 399px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.625rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 56.35% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 392px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 266px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 78px;
+}
+
+.u-section-2 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 342px;
+  min-width: 214px;
+  margin: 15px auto;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 100%;
+  color: rgb(59, 89, 152) !important;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 100%;
+  color: rgb(197, 54, 164) !important;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 0;
+}
+
+.u-section-2 .u-icon-4 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
